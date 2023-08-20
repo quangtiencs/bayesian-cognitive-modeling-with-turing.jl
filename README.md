@@ -3,7 +3,7 @@ bayesian-cognitive-modeling-with-turing.jl
 
 ---
 
-Bayesian Cognitive Modeling is one of the classical books for Bayesian Inference. The old version used WinBUGS/JAG software as the main implementation. You can find other implementations, such as Stan and PyMC, in the below link. I reimplemented these models with Julia Programming Language & Turing library.
+Bayesian Cognitive Modeling is one of the classical books for Bayesian Inference. The book used WinBUGS/JAG software as the main implementation. You can find other implementations, such as Stan and PyMC, in the below link. I reimplemented these models with Julia Programming Language & Turing library.
 
 - WinBUGS/JAGS (official) & Stan: https://bayesmodels.com/
 - PyMC: https://github.com/pymc-devs/pymc-resources/tree/main/BCM
